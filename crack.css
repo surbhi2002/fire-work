@@ -1,0 +1,49 @@
+body, html{
+	margin: 0px;
+	height: 100%;
+	overflow-y: hidden;
+}
+
+/* .bcg{
+    position: absolute;
+    inset: 0;
+    display: flex;
+} 
+
+.bcg img{
+    width: 100%;
+    filter: brightness(10%);
+} 
+
+.bcg h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 7rem;
+    color: yellow;
+    text-shadow: 0 0 .5rem rgba(0, 0, 0, .6); 
+} 
+
+
+
+ .counter span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+color: white;
+font-size: 10em;
+opacity: 0;
+animation: count is linear forwards;
+animation-delay: calc(1s*var(--i));
+ }
+
+ @keyframes count{
+     0%, 100%{
+         opacity: 0;
+     }
+     50%{
+         opacity: 1;
+     }
+ } */
